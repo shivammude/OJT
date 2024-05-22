@@ -1,2 +1,2 @@
 # OJT
-MSc Project on qemu machine 
+MSc Project on QEMU Machine 
